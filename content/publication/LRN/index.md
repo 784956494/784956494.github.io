@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 publication: In *2024 ICML Workshop on Geometry-grounded Representation Learning and Generative Modeling*
 publication_short: In *ICML'24 GraM Workshop (Extended Abstract)*
 
-abstract: This is an extended abstract of my [$${\color{orange}2025 SIGKDD paper}$$](https://784956494.github.io/publication/lresnet/) Lorentzian Residual Neural Networks .
+abstract: This is an extended abstract of my 2025 SIGKDD pape at this [link] (https://784956494.github.io/publication/lresnet/).
 
 # Summary. An optional shortened abstract.
 # summary: LResNet
