@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Neil H
+title: Neil He
 
 # Name pronunciation (optional)
 name_pronunciation: ''
