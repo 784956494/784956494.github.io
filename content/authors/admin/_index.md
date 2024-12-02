@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'neil.he@yale.edu'
+    url: 'mailto:neil.he@yale.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/784956494
