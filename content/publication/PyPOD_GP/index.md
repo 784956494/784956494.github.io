@@ -17,7 +17,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "preprint (in progress)"
+publication_short: "preprint"
 
 abstract: The rising demand for high-performance computing (HPC) has made full-chip dynamic thermal simulation in many-core GPUs critical for optimizing performance and extending device lifespans. Proper orthogonal decomposition (POD) with Galerkin projection (GP) has shown to offer high accuracy and massive runtime improvements over direct numerical simulation (DNS). However, previous implementations of POD-GP use MPI-based libraries like PETSc and FEniCS and face significant runtime bottlenecks. We propose a PyTorch-based POD-GP library (PyPOD-GP), a GPU-optimized library for chip-level thermal simulation. PyPOD-GP achieves over 23.4X speedup in training and over $10\times$ speedup in inference on a GPU with over 13,000 cores, with just 1.2% error over the device layer.
 
@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: ''
+# - name: Custom Link
+#   url: ''
 url_pdf: ''
 url_code: 'https://github.com/784956494/PyPOD-GP'
 url_dataset: ''
@@ -53,8 +53,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
+projects:
+- PyPOD_GP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
