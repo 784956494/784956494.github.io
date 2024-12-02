@@ -47,7 +47,7 @@ education:
   - area: BS/MS Student in Mathematics
     institution: Yale University
     date_start: 2021-09-01
-    date_end: 2025-05-19 (Expected)
+    date_end: 2025-05-19
     summary: |
       I'm currently enrolled in the 4-year joint B.S./M.S. program for Mathematics at Yale.
 work:
