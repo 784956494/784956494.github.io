@@ -150,4 +150,4 @@ education:
 
 ## About Me
 
-Hi! I'm Neil and I'm not a cat.
+Hi! I'm currently a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I am currently working with Prof. Rex Ying at Yale on geometric representation learning. I'm also working with Prof. Nisheeth Vishnoi and Prof. Oren Mangoubi on efficient diffuion for manifolds. 
