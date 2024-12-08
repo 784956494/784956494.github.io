@@ -150,4 +150,4 @@ education:
 
 ## About Me
 
-Hi! I'm a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I currently work with Prof. Rex Ying at Yale on geometric representation learning. I'm also working with Prof. Nisheeth Vishnoi and Prof. Oren Mangoubi on efficient diffuion for manifolds. 
+Hi! I'm a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I currently work with Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) at Yale on geometric representation learning. I'm also working with Prof. [Nisheeth Vishnoi](https://www.cs.yale.edu/homes/vishnoi/Home.html) and Prof. [Oren Mangoubi](https://www.orenmangoubi.com/) on efficient diffusion for manifolds. 
