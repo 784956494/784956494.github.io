@@ -32,7 +32,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: ''
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2412.06041#'
 url_code: 'https://github.com/784956494/PyPOD-GP'
 url_dataset: ''
 url_poster: ''
