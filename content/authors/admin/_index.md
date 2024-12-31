@@ -150,4 +150,4 @@ education:
 
 ## About Me
 
-Hi! I'm a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I currently work with Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) at Yale on geometric representation learning. I'm generally interested in how to build foundational models for structured datasets. I'm also interested in finding the theoretical justifications for empirically observed phenomena in training large-scale models. 
+Hi! I'm a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I currently work with Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) at Yale on geometric representation learning. I'm generally interested in exploring how to build foundational models for structured datasets, particularly for real-world applications. I'm also interested in finding the theoretical justifications for empirically observed phenomena in training large-scale models. 

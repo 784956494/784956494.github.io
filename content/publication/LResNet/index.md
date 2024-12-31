@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/784956494/LRN'
+url_pdf: 'https://arxiv.org/abs/2412.14695'
+url_code: 'https://github.com/Graph-and-Geometric-Learning/LResNet'
 url_dataset: ''
 url_poster: ''
 url_project: ''
