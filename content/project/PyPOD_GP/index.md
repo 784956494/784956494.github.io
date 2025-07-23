@@ -6,5 +6,5 @@ tags:
   - Thermal Simulation
 ---
 
-PyPOD-GP is a Pytorch-based, GPU-optimized software for accurate and efficient core-level thermal simulation on many-core processor chips.
+PyPOD-GP is a Pytorch-based, GPU-optimized software for accurate and efficient core-level thermal simulation on many-core processor chips. The software implements a data-based learning method that achieves over 23.4 times speedup during training and over 10 times speedup during inference over traditional methods.
 <!--more-->

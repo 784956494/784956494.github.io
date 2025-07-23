@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: BS/MS Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Yale University
+  - name: University of Illinois Urbana-Champaign (UIUC)
     url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:neil.he@yale.edu'
+    url: 'mailto:neilhe2@illinois.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/784956494
@@ -44,12 +44,18 @@ interests:
   - Foundational Models
 
 education:
-  - area: BS/MS Student in Mathematics
+  - area: PhD Student in Computer Science
+    institution: University of Illinois Urbana-Champaign (UIUC)
+    date_start: 2025-09-01
+    date_end: 2030-05-01
+    summary: |
+
+  - area: BS/MS in Mathematics
     institution: Yale University
     date_start: 2021-09-01
     date_end: 2025-05-19
     summary: |
-      I'm currently enrolled in the 4-year joint B.S./M.S. program for Mathematics at Yale.
+      I'm currently a first year PhD student in computer science at the University of Illinois Urbana-Champaign (UIUC)
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -150,4 +156,4 @@ education:
 
 ## About Me
 
-Hi! I'm a student at Yale enrolled in the 4-year joint B.S./M.S. program for Mathematics. I currently work with Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) at Yale on geometric representation learning. I'm generally interested in exploring how to build foundational models for structured datasets, particularly for real-world applications. I'm also interested in finding the theoretical justifications for empirically observed phenomena in training large-scale models. 
+Hi! I'm a first year PhD student in computer science at the University of Illinois Urbana-Champaign (UIUC), advised by Prof., [Ge Liu](https://www.mit.edu/~geliu/). Previously, I obtained my Bachelors ans Masters in Mathematics at Yale University, advised by Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) and Prof. [Menglin Yang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=509). I'm mainly insterested in geometric deep learning, such as generative modelling on Riemannian manifolds and non-Euclidean foundation models, with applications in the natural sciences such as protein synthesis. I'm also broadly interested in exploring how to build foundation models for structured datasets, particularly for real-world applications. 
